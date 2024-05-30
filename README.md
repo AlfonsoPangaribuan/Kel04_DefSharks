@@ -72,12 +72,12 @@ Defying Sharks adalah game arcade dan survival di mana player melawan arus yang 
 ## Tampilan Game
 
 ### Gambar 1. Tampilan Awal Game
-                                                            ![Tampilan Awal Game](FinalShark/assets/awall.jpeg)
+![Tampilan Awal Game](FinalShark/assets/awall.jpeg)
 
 Tampilan awal game saat game dijalankan akan berupa latar belakang, tombol-tombol (start, about, dan shop), serta total skor. Saat game pertama kali dijalankan akan menampilkan background musik, tombol start berfungsi untuk memulai permainan, tombol about berfungsi untuk melihat aturan cara main, dan shop untuk membeli suatu tema. Tampilan total skor yang berada di pojok kanan atas berfungsi untuk melihat akumulasi koin yang telah kita dapatkan yang nantinya koin tersebut akan digunakan untuk membeli suatu tema.
 
 ### Gambar 2. Tampilan Menu About
-                                                            ![Tampilan Awal Game](FinalShark/assets/aboutt.jpeg)
+![Tampilan Awal Game](FinalShark/assets/aboutt.jpeg)
 
 Tampilan About berisi tentang deskripsi dari game “Defying Shark”. Pada laman About dijelaskan bagaimana aturan dalam bermain game. Hal yang harus dihindari dalam bermain game defying shark adalah hiu. Dan hiu akan selalu bertambah seiring dengan berjalannya waktu. Dilaman ini juga dijelaskan bahwa swimmer diberikan 4 nyawa yang tertera dengan logo “hati”. Ketika nyawa habis, maka game akan berakhir. Tombol yang harus ditekan untuk bermain, ketika game over, dan ingin melanjutkan permainan, dan untuk menuju laman utama.
 
