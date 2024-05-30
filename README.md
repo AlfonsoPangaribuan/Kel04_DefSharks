@@ -72,6 +72,7 @@ Defying Sharks adalah game arcade dan survival di mana player melawan arus yang 
 ## Tampilan Game
 
 ### Gambar 1. Tampilan Awal Game
+![Tampilan Awal Game](assets/awal.jpeg)
 
 Tampilan awal game saat game dijalankan akan berupa latar belakang, tombol-tombol (start, about, dan shop), serta total skor. Saat game pertama kali dijalankan akan menampilkan background musik, tombol start berfungsi untuk memulai permainan, tombol about berfungsi untuk melihat aturan cara main, dan shop untuk membeli suatu tema. Tampilan total skor yang berada di pojok kanan atas berfungsi untuk melihat akumulasi koin yang telah kita dapatkan yang nantinya koin tersebut akan digunakan untuk membeli suatu tema.
 
