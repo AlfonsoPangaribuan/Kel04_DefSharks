@@ -139,7 +139,7 @@ class Button:
             if click[0] == 1 and self.action is not None:
                 self.action()
                 start_sound.play()
-
+#abstraksi kelas
 class Music(abc.ABC):
     def __init__(self):
         self.music_playing = False
@@ -423,6 +423,7 @@ class Coin(pygame.sprite.Sprite):
     def resume_movement(self):
         self.movement = True
 
+#enkapsulasi
 class Heart(pygame.sprite.Sprite):
     def __init__(self):
         super().__init__()
