@@ -82,12 +82,14 @@ Tampilan awal game saat game dijalankan akan berupa latar belakang, tombol-tombo
 Tampilan About berisi tentang deskripsi dari game “Defying Shark”. Pada laman About dijelaskan bagaimana aturan dalam bermain game. Hal yang harus dihindari dalam bermain game defying shark adalah hiu. Dan hiu akan selalu bertambah seiring dengan berjalannya waktu. Dilaman ini juga dijelaskan bahwa swimmer diberikan 4 nyawa yang tertera dengan logo “hati”. Ketika nyawa habis, maka game akan berakhir. Tombol yang harus ditekan untuk bermain, ketika game over, dan ingin melanjutkan permainan, dan untuk menuju laman utama.
 
 ### Gambar 3. Tampilan Main Game
+![Tampilan Awal Game](FinalShark/assets/aboutt.jpeg)
 
 Tampilan utama game saat laman utama tombol start ditekan maka akan menampilkan jalannya game. Pemeran utama game ini yaitu perenang, perenang dapat bergerak ke atas, bawah, kanan dan kiri menggunakan keyboard panah. Perenang harus menghindari hiu sebagai obstacle, hiu bergerak dari atas ke bawah dengan kemunculan hiu yang random (left, center, right) semakin lama perenang bertahan menghindari hiu maka kemunculan hiu akan semakin banyak.
 
 Level yang berada di pojok kanan atas tampilan menunjukkan tingkat kesulitan kemunculan hiu, semakin tinggi levelnya, maka hiu yang muncul semakin banyak dan akan memenuhi layar. Terdapat koin yang bisa diambil perenang, koin akan diakumulasikan skor tersimpan di bagian pojok kiri atas. Terdapat 4 nyawa jika bertabrakan dengan hiu maka nyawa akan berkurang satu hingga akhirnya gameover. Namun dalam permainan, akan muncul logo hati yang muncul bersamaan dengan datangnya koin, namun frekuensi kemunculan nyawa tidak sebanyak frekuensi kemunculan koin. Fungsi dari logo hati ini sendiri sebagai tambahan nyawa pemain, sehingga pemain dapat bermain lebih lama dengan mengambil hati/nyawa tersebut.
 
 ### Gambar 4. Tampilan saat Game Over
+![Tampilan Awal Game](FinalShark/assets/selese.jpeg)
 
 Pada laman game over tampak terdapat dua button yang berguna untuk apabila pengguna ingin mengulang permainan dan bila pengguna ingin mengakhiri permainan. Pada laman ini game akan berhenti, akan tampil juga total koin yang didapatkan.
 
