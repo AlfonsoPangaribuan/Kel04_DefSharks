@@ -93,9 +93,6 @@ Level yang berada di pojok kanan atas tampilan menunjukkan tingkat kesulitan kem
 
 Pada laman game over tampak terdapat dua button yang berguna untuk apabila pengguna ingin mengulang permainan dan bila pengguna ingin mengakhiri permainan. Pada laman ini game akan berhenti, akan tampil juga total koin yang didapatkan.
 
-### Gambar 5. Nyawa
-### Gambar 6. Koin
-
 ## Kelas
 
 1. **Player (Pemain):**
